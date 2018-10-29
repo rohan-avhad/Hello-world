@@ -1,0 +1,3 @@
+print(student details)
+firstname=("enter a first name")
+print("you have a entered a first name")

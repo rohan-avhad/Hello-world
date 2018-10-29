@@ -1,3 +1,4 @@
 print(student detailes)
-firstname=("enter a first name")
-print("you have entered a first name")
+school name=("enter a school")
+print("you have entered a school name")
+

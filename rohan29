@@ -1,3 +1,5 @@
 print(student details)
 firstname=("enter a first name")
 print("you have a entered a first name")
+student address=("enter a student address")
+print("you have entered a student address")
